@@ -18,7 +18,7 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 
 
-✔ 🔭 &nbsp; I’m currently learning DSA, python, and MySQL <br/>
+✔ 🔭 &nbsp; I’m currently learning DSA, GraphQL, and PostgreSQL <br/>
 ✔ 🤝 &nbsp; I seek opportunities to contribute and grow as a full-stack web developer. <br>
 ✔ 💬 Ask me about JavaScript, HTML, CSS, Node.Js, React.Js<br>
 ✔ 📫 &nbsp; How to reach me, you can email me at [Gmail](auvipujondas@gmail.com)<br>
