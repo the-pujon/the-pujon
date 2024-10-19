@@ -11,7 +11,7 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 <p aline='center'>
 
-<a  href="https://github.com/the-pujon">   <img src="https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly" width="320"/></a>
+<a  href="https://github.com/the-pujon">   <img src="https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly" width="720"/></a>
      
 </p>
 
