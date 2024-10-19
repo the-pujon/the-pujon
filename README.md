@@ -34,38 +34,37 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 #### Expertise
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=FFD43B)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=CC6699)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=880000)
 
 #### Comfortable
 
-![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=2D3748)
+![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=007FFF)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)
 
 #### Familiar
 
-![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat&logo=axios&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0081CB?style=flat)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![tRPC](https://img.shields.io/badge/-tRPC-000000?style=flat)
-![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
+![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E3)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat)
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socketdotio&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-05122A?style=flat)
+![Discord.js](https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=7289DA)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=4169E1)
 
 #### Tools
 
@@ -99,3 +98,4 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats"  />
 </p>
+
