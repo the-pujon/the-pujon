@@ -10,7 +10,9 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 <br/>
 
 <p aline='center'>
-        <img src="https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly" width="100%"/>
+
+<a  href="https://github.com/the-pujon">   <img src="https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly" width="320"/></a>
+     
 </p>
 
 
@@ -84,8 +86,9 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 <p align="center">
 <a   href="https://github.com/the-pujon"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-pujon&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
+<a  href="https://github.com/the-pujon">   <img src="https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly" width="320"/></a>
 
-<a    href="https://github.com/AmardeepKesharwani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-pujon&theme=tokyonight&hide_border=true"  width="100%" alt="Amardeep Kesharwani"/></a>
+<a href="https://github.com/the-pujon"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-pujon&theme=tokyonight&hide_border=true"  width="100%" alt="Amardeep Kesharwani"/></a>
 
 </p>
 
