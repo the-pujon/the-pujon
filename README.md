@@ -4,7 +4,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <!-- name -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Pujon Das Auvi </h1>
-I am an enthusiastic and aspiring full-stack web developer with 1 year of experience. I am pursuing a Bachelor's Degree in Computer Science and Engineering at Green University Of Bangladesh.
+I am an enthusiastic and aspiring full-stack web developer with more then 1 year of experience. I am pursuing a Bachelor's Degree in Computer Science and Engineering at Green University Of Bangladesh.
 
 <br/>
 <br/>
