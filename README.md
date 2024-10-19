@@ -9,7 +9,7 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 <br/>
 <br/>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=the-pujon&theme=blue-green&hide_border=true&border_radius=0&mode=weekly)](https://git.io/streak-stats)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <b>About Me</b>
 
@@ -20,7 +20,7 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 ✔ 🔭 &nbsp; I’m currently learning DSA, GraphQL, and PostgreSQL <br/>
 ✔ 🤝 &nbsp; I seek opportunities to contribute and grow as a full-stack web developer. <br>
-✔ 💬 Ask me about JavaScript, HTML, CSS, Node.Js, React.Js<br>
+✔ 💬 Ask me about JavaScript, TypeScript, Node JS, React JS, Express JS, Next JS <br>
 ✔ 📫 &nbsp; How to reach me, you can email me at [Gmail](auvipujondas@gmail.com)<br>
 ✔ 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/pujon-das-auvi-6b1337222/) <br>
 
@@ -29,37 +29,38 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 #### Expertise
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
 
 #### Comfortable
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)&nbsp;
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
-![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JSON%20web%20tokens)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui&logoColor=563D7C)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 #### Familiar
 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![FramerMotion](https://img.shields.io/badge/-FramerMotion-05122A?style=flat&logo=framer)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Axios](https://img.shields.io/badge/Axios-5A29E3?style=flat&logo=axios&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0081CB?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-000000?style=flat)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 
 #### Tools
 
