@@ -9,7 +9,10 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=the-pujon&theme=blue-green&hide_border=true&border_radius=0&mode=weekly)](https://git.io/streak-stats)
+<p aline='center'>
+        [![GitHub Streak](https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly)](https://git.io/streak-stats)
+</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <b>About Me</b>
 
