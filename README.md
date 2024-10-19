@@ -58,13 +58,13 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 
 #### Familiar
 
-![Axios](https://img.shields.io/badge/Axios-5A29E3?style=flat&logo=axios&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0081CB?style=flat)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-000000?style=flat)
-![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat&logo=axios&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0081CB?style=flat)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-000000?style=flat)
+![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 
 #### Tools
