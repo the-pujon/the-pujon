@@ -10,7 +10,7 @@ I am an enthusiastic and aspiring full-stack web developer with 1 year of experi
 <br/>
 
 <p aline='center'>
-        [![GitHub Streak](https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly)](https://git.io/streak-stats)
+        <img src="https://streak-stats.demolab.com?user=the-pujon&theme=transparent&hide_border=true&border_radius=0&mode=weekly" width="100%"/>
 </p>
 
 
