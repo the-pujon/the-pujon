@@ -4,7 +4,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <!-- name -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Pujon Das Auvi </h1>
-I am an enthusiastic and aspiring full-stack web developer with more then 1 year of experience. I am pursuing a Bachelor's Degree in Computer Science and Engineering at Green University Of Bangladesh.
+I am a full-stack developer with  1+ years of experience. Currently, I am working as a Full Stack Developer at Tripnest Limited
 
 <br/>
 <br/>
@@ -23,8 +23,8 @@ I am an enthusiastic and aspiring full-stack web developer with more then 1 year
 
 
 
-✔ 🔭 &nbsp; I’m currently learning DSA, GraphQL, and PostgreSQL <br/>
-✔ 🤝 &nbsp; I seek opportunities to contribute and grow as a full-stack web developer. <br>
+✔ 🔭 &nbsp; I’m currently learning DSA, Kubernetes, and Nest Js <br/>
+<!--✔ 🤝 &nbsp; I seek opportunities to contribute and grow as a full-stack web developer. <br>-->
 ✔ 💬 Ask me about JavaScript, TypeScript, Node JS, React JS, Express JS, Next JS <br>
 ✔ 📫 &nbsp; How to reach me, you can email me at [Gmail](auvipujondas@gmail.com)<br>
 ✔ 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/pujon-das-auvi-6b1337222/) <br>
