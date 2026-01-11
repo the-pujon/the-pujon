@@ -100,3 +100,4 @@ I am a full-stack developer with  1+ years of experience. Currently, I am workin
 </p>
 ![](https://komarev.com/ghpvc/?username=the-pujon&style=for-the-badge&abbreviated=true)
 
+<img src="https://komarev.com/ghpvc/?username=the-pujon&style=for-the-badge&abbreviated=true" width="30px">
