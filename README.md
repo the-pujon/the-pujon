@@ -98,6 +98,4 @@ I am a full-stack developer with  1+ years of experience. Currently, I am workin
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats"  />
 </p>
-![](https://komarev.com/ghpvc/?username=the-pujon&style=for-the-badge&abbreviated=true)
-
 <img src="https://komarev.com/ghpvc/?username=the-pujon&style=for-the-badge&abbreviated=true">
