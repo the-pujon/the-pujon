@@ -24,7 +24,7 @@ I am a full-stack developer with  1+ years of experience. Currently, I am workin
 
 
 ✔ 🔭 &nbsp; I’m currently learning DSA, Kubernetes, and Clean Architecture <br/>
-✔ 💬 Ask me about JavaScript, TypeScript, Node JS, React JS, Express JS, Next JS <br>
+✔ 💬 Ask me about JavaScript, TypeScript, Node JS, React JS, Express JS, Next JS, Nest JS <br>
 ✔ 📫 &nbsp; How to reach me, you can email me at [Gmail](auvipujondas@gmail.com)<br>
 ✔ 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/pujon-das-auvi-6b1337222/) <br>
 
