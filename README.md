@@ -45,7 +45,7 @@ I am a full-stack developer with  1+ years of experience. Currently, I am workin
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=880000)
 
-#### Comfortable
+#### Comfortable...
 
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)
